@@ -1,0 +1,1 @@
+This is a txt file to practice git and github tutorial by Daniel Shiffman
